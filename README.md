@@ -40,6 +40,9 @@ Clients can view available fitness classes, book a spot, and view their bookings
 
 3. Install dependencies:
 
+    Just run pip install -r requirements.txt
+    
+    or manually install the packages below:
     pip install fastapi uvicorn pydantic pytz
     pip install email-validator
 
